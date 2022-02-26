@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The victorious proceedings of the Protestant armie in Ireland vnder the command of the Right Honourable Maj. Gen. Iones, in his late expedition against the Irish rebels. Wherein is set forth, severall great overthrowes, given to the said rebles, since the 9. of October last, 1647. As also the manner of the taking of 10. strong castles belonging to the enemy, with the losse of few men, together with all their armes, and ammunition. Being a full and perfect relation of the severall victories obtained from the 9. of October till the 20. of November. 1647.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76341</idno>
+            <idno type="STC">Wing B171A</idno>
+            <idno type="STC">Thomason E413_5</idno>
+            <idno type="STC">ESTC R204478</idno>
+            <idno type="EEBO-CITATION">99863968</idno>
+            <idno type="PROQUEST">99863968</idno>
+            <idno type="VID">116186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116186)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The victorious proceedings of the Protestant armie in Ireland vnder the command of the Right Honourable Maj. Gen. Iones, in his late expedition against the Irish rebels. Wherein is set forth, severall great overthrowes, given to the said rebles, since the 9. of October last, 1647. As also the manner of the taking of 10. strong castles belonging to the enemy, with the losse of few men, together with all their armes, and ammunition. Being a full and perfect relation of the severall victories obtained from the 9. of October till the 20. of November. 1647.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. for further satisfaction,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Dublin the 26. of Octob. 1647. R.B.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "No: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116186:1"/>
+            <pb facs="tcp:116186:1" rendition="simple:additions"/>
+            <p>THE VICTORIOUS PROCEEDINGS OF THE PROTESTANT ARMIE IN IRELAND.</p>
+            <p>Vnder the Command of the Right Honourable Maj. Gen. <hi>Iones,</hi> in his late expedition againſt the Iriſh Rebels.</p>
+            <p>WHEREIN IS SET FORTH, Severall great Overthrowes, given to the ſaid Rebels, ſince the 9. of October laſt, 1647. As alſo the manner of the taking of 10. ſtrong Caſtles belong<g ref="char:EOLhyphen"/>ing to the enemy, with the loſſe of few men, together with all their Armes, and Ammunition.</p>
+            <p>Being a full and perfect Relation of the ſeverall Victories obtained from the 9. of October till the 20. of November, 1647.</p>
+            <p>
+               <hi>LONDON Printed by B. A. for further ſatisfaction.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116186:2"/>
+            <pb facs="tcp:116186:2"/>
+            <head>The further ſucceſſefull Proceedings of the Prote<g ref="char:EOLhyphen"/>ſtant Army in <hi>Ireland,</hi> commanded by Colonell <hi>Michael Jones.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to my promiſe, I here tender unto you the further relation of the proceedings of our ar<g ref="char:EOLhyphen"/>my; alſo the taking of <hi>Athboy,</hi> and after the Ge<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rall had diſpoſed of the priſoners, and placed a Gariſon there, he marched to <hi>Kells</hi> five miles Northwards from <hi>Athboy,</hi> and there quartered; and that night Sir <hi>Tho. Atme<g ref="char:EOLhyphen"/>ſtrong</hi> with a party of 500. horſe was ſent into the Coun<g ref="char:EOLhyphen"/>ty of <hi>Cavan,</hi> to harraſe and prey that Country.</p>
+            <p>Sunday the x. of October, we marched from <hi>Hells</hi> north<g ref="char:EOLhyphen"/>ward, ſeverall Caſtles in the Country quitting their Gar<g ref="char:EOLhyphen"/>riſons, and about 11. of the clock we came before a very ſtrong Fort, called <hi>Ardtonian,</hi> alias <hi>Cumce<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Fort, the Ge<g ref="char:EOLhyphen"/>nerall cauſed the place to be ſummoned; whereupon an Officer came forth, &amp; after parley, deſired quarter, which being granted, there marched forth Lieut.
+<hi>Comice,</hi> an En<g ref="char:EOLhyphen"/>ſigne, 38. Souldiers, a Piper, &amp; a great ſort of their naſty Country women &amp; children the Gen. left captain <hi>Richard Perkins</hi> of Col.
+<hi>Kinnaſtons</hi> Regiment, &amp; 70 men in Gar<g ref="char:EOLhyphen"/>riſon there. This day Sir <hi>Jo. Gifford</hi> with a party of horſe brought in a prey of Cowes &amp; Sheepe, a great reliefe to the Army. Then the army marched 3 miles from thence to a place called <hi>Nebber</hi> (a Caſtle &amp; Fort of Earth, ſur<g ref="char:EOLhyphen"/>rounded
+<pb facs="tcp:116186:3"/> with water of great ſtrength) it <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmo<g ref="char:EOLhyphen"/>ned, the Commander within deſired that one from Us might be ſent in, &amp; he would ſend one to our Campe, and by eight of the clock next morning, would reſolve the Generall what he would doe, Major <hi>Miles Somne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> In<g ref="char:EOLhyphen"/>geneer Generall to the Army, was ſent by the Generall in, where he remained that night, and one <hi>Pluncket</hi> was ſent forth, who likewiſe remained n the Campe that night.</p>
+            <p>Munday October the 11. Major <hi>Semur</hi> came forth and certified the place to be of great ſtrength, about 11 of the clock after long debate (the conſequence of the place requiring of it) they had quarter to march with Arms, Bag and Baggage, with a fourth part of their corne: There marched thence, a Lieutenant and an En<g ref="char:EOLhyphen"/>ſigne, and about 70. men, with a great number of their old retirue of women and children, Lieutenant Colo<g ref="char:EOLhyphen"/>nell <hi>Napper</hi> of Colonell
+<hi>Kingſtons</hi> Regiment is now in Garriſon there.</p>
+            <p>Tueſday the 12. of October, after the Gen. had ſet<g ref="char:EOLhyphen"/>led his buſineſſe about the Nebber, he marched to Bal<g ref="char:EOLhyphen"/>lagh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o (a very ill paſſage for our Ordnance and Carria<g ref="char:EOLhyphen"/>ges) In our march thither Sir <hi>Thomas Armſtrong</hi> with the party of horſe under his command, came to the Army with a very good prey of cattell, at that time a great re<g ref="char:EOLhyphen"/>lief to the Army, being in great want of Victuals, when we came to Ballagh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o (a very ſtrong Caſtle with great Works) upon a paſſe lying on the laggan water; which ſevers the Countries of Meath, Lowth, and Mounaghan, each from other, and commands all that part of the Country. It was immediatly ſummoned, they within re<g ref="char:EOLhyphen"/>fuſing to yeeld, the Gen. cauſed ſtrong guards both of horſe and foot to watch the place all night.</p>
+            <p>
+               <pb facs="tcp:116186:3"/>Wedneſday the 13 of Octob. our Ordinance by reaſon of the badneſſe of the waies came not to us till noon, when aſſoon as they in the Caſtle perceived them come, they deſired to parley, which being hearkened unto, (for the Works and Caſtle could not be gained by all likelihood without great loſſe) it was agreed they ſhould march a<g ref="char:EOLhyphen"/>way with their Arms, Bag and Baggage (not march worth) there marched away Col:
+<hi>Fleming</hi> Commander of the Caſtle, an Enſign and 47 Souldie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Lieutenant Colonel <hi>Blagvale</hi> of Col: <hi>Moores</hi> Reg. was left in garriſon there.</p>
+            <p>Thurſday the 14 of Octob. we marched cloſe under the Caſtle of Ballaghoo over the paſſe (a very dangerous Foord) into the County of Manughan, and leaving <hi>Car<g ref="char:EOLhyphen"/>rigment Roſse</hi> on our right hand whither the Brittiſh for<g ref="char:EOLhyphen"/>ces marched, we marched into the County of <hi>Cavan,</hi> and came to a place called <hi>Cabbvagh</hi> belonging to one <hi>Thomas Fleming</hi> (now of the Rebels ſupreme Councell,) a place commanding all that part of the Country, which being ſummoned, took quarter and delivered up the Caſtle, there marched thence
+12 Musketeers to another Garri<g ref="char:EOLhyphen"/>ſon of the enemies called the <hi>Nogh,</hi> this place was left to Col: <hi>Monk</hi> to ſlight or ſettle a Garriſon there, as he ſhould think fit, it being in the Province of Ulſter.</p>
+            <p>Friday the 15 of Octob. the Army remained at <hi>Cabb<g ref="char:EOLhyphen"/>vagh,</hi> and the Gen. with ſome horſe marched to another Garriſon of theirs called the <hi>Nogh</hi> 2 miles from
+<hi>Cabb<g ref="char:EOLhyphen"/>vagh,</hi> a place of very great ſtrength, commanded by a ſon of <hi>Tho. Flemings,</hi> there was a great ſtore of corne a<g ref="char:EOLhyphen"/>bout this place, the Caſtle being ſummoned took quar<g ref="char:EOLhyphen"/>ter, and they marched away with Bag and Baggage. A Troop of Col: <hi>Ponſonbyes</hi> Regiment of horſe is now in Garriſon at the <hi>Nogh.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:116186:4"/>Col. <hi>Monk</hi> with the Ulſter Forces ſate down before
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iſlands in a low cloſe under <hi>Carrick Mac<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ff,</hi> after ſome ſhot made, thoſe in the Iſland cryed out for quarter, and had it granted: there was great ſtore of Meale and Corn, &amp; other Country proviſions found in thoſe Iſlands, the Country all about was burnt.</p>
+            <p>Satterday the 12. of Octob. the Gen. &amp; Col. <hi>Monk</hi> met at <hi>Cabbragh</hi> aforeſaid in the county of <hi>Cavad,</hi> and after ſome conſultation, our Forces and the Ulſter Forces parted, they homewards, and we marched neere to a place called <hi>Roffine</hi> in the County of <hi>Meath,</hi> where wee quartered that night, and received intelligence of out Convoy formerly ſent to Dublin, to be neer, and march<g ref="char:EOLhyphen"/>ing to us.</p>
+            <p>Sunday the 17. of Octob. about ten of the clock, we met with our Convoy, which brought proviſion of Bisket &amp; cheefe to the army, then ſtanding in a great need thereof: from this place the Gen. ſent col. <hi>Coot,</hi> to garriſon at a place called <hi>Roffine,</hi> about which is great ſtore of corne. Sir <hi>Patrick Weames,</hi> &amp; capt. <hi>Richard Burrowes</hi> to Mogalty, part of col. <hi>Ponſo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies</hi> horſe to <hi>Nobber</hi> &amp; <hi>Ardloman.</hi> the Gen. diſmiſt col. <hi>Moor</hi> &amp; the Dundalke Forces home to their quarters, and he marched to Durmoe, a ſtrong Ca<g ref="char:EOLhyphen"/>ſtle of the Rebels upon the River of Reyn (the laſt Garri<g ref="char:EOLhyphen"/>ſon of the Enemies in the Engliſh quarters) it being ſum<g ref="char:EOLhyphen"/>moned, tooke quarter to march away with their ſwords and cloakes only, Lieut.
+<hi>Delamare</hi> and 24. men. In this ca<g ref="char:EOLhyphen"/>ſtle is Capt. <hi>Roe</hi> of Col. <hi>Hungerfords</hi> Regiment left in ga<g ref="char:EOLhyphen"/>riſon. The army marched over the Royne (a very unto<g ref="char:EOLhyphen"/>ward croſſe way for our Ordinance) and that night wee quartered at n place called <hi>Dullardſtone.</hi>
+            </p>
+            <p>Munday the 18. of Octob. we marched from <hi>Dullard<g ref="char:EOLhyphen"/>ſtone,</hi> and this day the General diſmiſt the Drogheda for<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:116186:4"/> home to their quarters. This thy we quartered at a place called Killeglan within ten miles of Dublin.</p>
+            <p>Tueſday the 19. of Octob. we marched from Killeglan towards Dublin, in the way the Lord Moore tooke his leave of the Generall, and went to his quarters to <hi>Melli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fort,</hi> and the night we marched to the city of Dublin, to the great rejoycing of the well-affected Citizens, who in our abſence loſt neer upon 600. Cowes taken from them by the Rebels.</p>
+            <p>Thus have I endeavoured to give you a full and perfect accompt of the proceedings of our Army in their la<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> march abroad, and if it pleaſed God ſo to put in the hart of the Parliament there as to looke upon us with ſome ſupply of money, I make no doubt, with Gods aſſiſtance, the Rebels hearts would quickly be quite broke: if mo<g ref="char:EOLhyphen"/>ney be not ſent, things will go very croſſe, and we in great danger among our own party here. God Almighty ſtirre <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y their hearts to look upon us here, I am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt humble ſervant, <hi>R. B.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Dublin</hi>
+                  <date>
+                     <hi>the</hi> 26. <hi>of Octob.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:116186:5"/>
+            <head>Poſt-ſcript.</head>
+            <p>AFter the returne of our Army to the City of <hi>Dublin,</hi> the Generall ſent out a party of horſe into the County of <hi>Wickl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> who brought with them a good prey of Cattle to <hi>Dublin,</hi> which was a great reliefe to the Army, the 23 of October, the Generall commandes to be kept as a day of Thankſgiving for the great deliverance from the Iriſh Rebellion, and for the good ſucceſſes God had been pleaſed to give him in this his Expedition.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
